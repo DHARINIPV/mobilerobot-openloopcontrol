@@ -101,7 +101,7 @@ if _name_ == '_main_':
 
 ## led_blink.py
 ```
-rom robomaster import robot
+from robomaster import robot
 import time
 
 
